@@ -346,17 +346,24 @@ a:visited {
 #grant-steinhauer-card {
  background-image: url("https://i.imgur.com/I8JmQym.jpg");
 }
-
-/* TODO: Add your partner's image styles
-
-#firstname-lastname-cover {
-  background-image: url("link to imgur cover photo");
+#victoria-zhao-cover {
+ background-image: url("https://i.imgur.com/bJEP3mA.jpg");
 }
 
-#firstname-lastname-card {
-  background-image: url("link to imgur card photo");
+#victoria-zhao-card {
+ background-image: url("https://i.imgur.com/9u95aFW.png");
+
 }
-*/
+
+
+#chris-dsilva-cover {
+  background-image: url("https://i.imgur.com/aMmpPno.jpg");
+}
+
+#chris-dsilva-card {
+  background-image: url("https://i.imgur.com/aMmpPno.jpg");
+}
+
 
 
 /*
